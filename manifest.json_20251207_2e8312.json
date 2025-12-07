@@ -1,0 +1,16 @@
+{
+  "name": "柔光日程",
+  "short_name": "日程组件",
+  "description": "柔光视觉的待办日程和备忘录笔记",
+  "start_url": "/light-schedule/",
+  "display": "standalone",
+  "background_color": "#F7F5F2",
+  "theme_color": "#F7F5F2",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
